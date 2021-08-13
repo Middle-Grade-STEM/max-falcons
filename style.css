@@ -1,0 +1,40 @@
+*{box-sizing: border-box;}
+p {
+    /* color of the paragraphs*/
+    color: #da2c38;
+}
+h1 {
+  /* color of the first heading*/
+  color: #226f54;
+}
+h2 {
+  /* color of the second heading*/
+  color: #87c38f;
+}
+body {
+  background: #f4f0bb;
+  color: #f4f0bb;
+  font-size: 20px;
+  font-family: sans-serif;
+  margin: 0;
+  top: 0;
+}
+.nav {
+  /*navigation buttons*/
+  color: white;
+  margin: 0;
+  padding: 10px;
+  text-decoration: none;
+  float: left;
+  width: 33.33%;
+  text-align: center;
+}
+.header {
+  background-color: #3a33ff;
+  width: 100%;
+  margin: 0;
+  overflow: hidden;
+}
+.active {
+  background-color: dodgerblue;
+}
